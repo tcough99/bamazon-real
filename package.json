@@ -1,0 +1,25 @@
+{
+  "name": "bamazon-real",
+  "version": "1.0.0",
+  "description": "bamazon store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcough99/bamazon-real.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcough99/bamazon-real/issues"
+  },
+  "homepage": "https://github.com/tcough99/bamazon-real#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "cli-table2": "^0.2.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}
